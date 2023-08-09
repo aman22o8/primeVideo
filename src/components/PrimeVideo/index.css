@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.main_container {
+  background-color: #000000;
+}
+.image_1 {
+  height: 105px;
+  width: 100%;
+}
+.heading_main {
+  font-size: 25px;
+  color: #ffffff;
+  font-family: 'roboto';
+  font-weight: 500;
+}
